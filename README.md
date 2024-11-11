@@ -1,6 +1,8 @@
-# RPM Solver Agent
+# RPM Solver Agent (AGENT FILE CAN BE PROVIDED UNDER REQUEST)
 
 A Python-based agent designed to solve Raven's Progressive Matrices (RPM) problems using image processing techniques. This agent leverages contour detection, Dark Pixel Ratio (DPR), Intersection Pixel Ratio (IPR), and shape analysis to determine the correct answer from multiple-choice options.
+
+
 
 ## Table of Contents
 
