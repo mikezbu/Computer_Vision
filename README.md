@@ -2,7 +2,7 @@
 
 A Python-based agent designed to solve Raven's Progressive Matrices (RPM) problems using image processing techniques. This agent leverages contour detection, Dark Pixel Ratio (DPR), Intersection Pixel Ratio (IPR), and shape analysis to determine the correct answer from multiple-choice options.
 
-This is a project associated with Georgia Tech, so I am withholding my agent.py file that runs the program. However, I can provided the code upon request.
+This is a project associated with Georgia Tech, so I am withholding my agent.py file that runs the program to prevent plagiarism. However, I can provided the code upon request.
 
 
 ## Table of Contents
